@@ -3,8 +3,8 @@ import '../CSS/Projects.css';
 
 const projects = [
     {
-        title: "Project Management Tool",
-        description: "A project management tool using React, Node.js with Express, and MongoDB.",
+        title: "AI-Powered Content Generator",
+        description: "An AI tool integrating GPT models using React, Node.js with Express, and MongoDB.",
         link: "#"
     },
     {
@@ -17,6 +17,11 @@ const projects = [
         description: "An AI-empowered Learning Management System.",
         link: "#"
     },
+    {
+        title: "AI-Powered Story Teller",
+        description: "",
+        link: "#"
+    }
 ];
 
 const Projects = () => {
